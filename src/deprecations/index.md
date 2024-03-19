@@ -24,7 +24,7 @@ This step lasts through four additional major Elementor versions. This grace per
 
 ### Deletion
 
-After eight major versions, the deprecated code is deleted from the codebase. At this point, using code that is no longer exist will throw fatal PHP errors causing sites to break. In some cases, the deletion process can be postponed until the next major release.
+After eight major versions, the deprecated code is deleted from the codebase. At this point, using code that no longer exists will throw fatal PHP errors causing sites to break. In some cases, the deletion process can be postponed until the next major release.
 
 ## Deprecation Period Example
 
